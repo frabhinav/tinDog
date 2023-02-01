@@ -12,7 +12,7 @@ Deployed Website: https://oiabhi.github.io/tinDog/
   * CSS
   * Bootstrap
 
-## Authors
+## Author
 
   - **Abhinav karn**
 
