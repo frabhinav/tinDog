@@ -4,7 +4,7 @@ Start up landing page for a fictional application named tinDog. tinDog allows th
 
 ## Deployment
 
-Deployed Website: https://oiabhi.github.io/tinDog/
+Deployed Website: https://frabhinav.github.io/tinDog/
 
 ## Built With
 
